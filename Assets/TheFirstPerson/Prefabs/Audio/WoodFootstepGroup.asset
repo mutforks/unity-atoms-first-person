@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: WoodFootstepGroup
   m_EditorClassIdentifier: 
   footSounds:
-  - {fileID: 8300000, guid: 6979015e8055a9940b237b6a063a94cc, type: 3}
-  - {fileID: 8300000, guid: 7b0c60c4ded1c634ebcf9a5d39747838, type: 3}
-  - {fileID: 8300000, guid: f58c4b53b1e464749993b968d6c25b96, type: 3}
+  - {fileID: 8300000, guid: 86913da6a1120134d9bd6b99bc3552ea, type: 3}
   textures:
-  - {fileID: 10309, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2800000, guid: c53bb6b8c40b02141be3fdec5cc582e9, type: 3}
